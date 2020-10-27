@@ -183,3 +183,4 @@ You can support my work via
 
 [personal-token]: https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
 [personal-token-gitlab]: https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html
+[personal-token-bitbucket]: https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html
